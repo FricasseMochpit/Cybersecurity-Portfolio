@@ -11,20 +11,6 @@
 | 🔴 [Penetration Testing Report](./01-Penetration-Testing/) | Проведение тестирования безопасности и подготовка отчёта по результатам анализа | Penetration Testing, Vulnerability Assessment, Reporting |
 | 🌐 [Network Security Lab](./02-Network-Lab/) | Проектирование и настройка сетевой инфраструктуры в Cisco Packet Tracer | TCP/IP, Routing, Switching, Network Security |
 
-## 🧰 Skills demonstrated
-
-- Web Application Security
-- Penetration Testing
-- Vulnerability Assessment
-- OWASP Top 10
-- Network Security
-- TCP/IP
-- Linux / Windows
-- Security Reporting
-
-## 🛠️ Tools
-
-`Burp Suite` `Nmap` `Linux` `Cisco Packet Tracer` `Wireshark`
 
 ## 📚 Additional Practice
 
